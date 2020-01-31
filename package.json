@@ -1,5 +1,6 @@
 {
   "name": "angular-netflix",
+  "license": "MPL-2.0",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
