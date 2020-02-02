@@ -7,4 +7,6 @@ import { Component } from "@angular/core";
 })
 export class AppComponent {
   title = "hcode";
+
+  cars = ["gol", "palio", "fusca", "golfe", "ferrari"];
 }
