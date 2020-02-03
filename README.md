@@ -3,11 +3,14 @@
 Projeto feito seguindo os vídeos do canal hcode para aprender Angular 8.
 Uma copia simples da interface web da Netflix apenas para aprendizado.
 
+![Imagem ilustrativa da interface](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/netflix-clone.jpg?alt=media&token=c72c552c-cccb-41d3-b90b-50743875f063)
+
 ## ✔️ RoadMap
 
-- [x] Instalar Angular globalmente
-- [x] Copiar Layout do Netflix (hcode github)
-- [x] Instalar Bootstrap in dependecies (package.json)
+- [x] Instalar Angular globalmente.
+- [x] Copiar Layout do Netflix (hcode github).
+- [x] Instalar Bootstrap nas dependecias (package.json).
+- [x] Adicionar Material Icons no proprio header (utilizando do cache do navegador).
 
 ## Iniciar servidor dev
 
