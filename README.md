@@ -16,6 +16,7 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 - [x] Refatorando ListTitles
 - [x] Refatorando Footer
 - [x] Refatorando Title
+- [x] Fix Titles com propriedades
 
 ## RNF - Requisitos Não Funcionais
 
