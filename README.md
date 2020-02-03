@@ -14,6 +14,7 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 - [x] Refatorar primeiro component (app-nav-bar).
 - [x] Refatorando component usando cli (ng generate component shared/FullBanner).
 - [x] Refatorando ListTitles
+- [x] Refatorando Footer
 
 ## RF - Requisitos Funcionais
 
