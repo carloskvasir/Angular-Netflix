@@ -11,6 +11,7 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 - [x] Copiar Layout do Netflix (hcode github).
 - [x] Instalar Bootstrap nas dependecias (package.json).
 - [x] Adicionar Material Icons no proprio header (utilizando do cache do navegador).
+- [x] Refatorar primeiro component (app-nav-bar).
 
 ## RF - Requisitos Funcionais
 
