@@ -17,13 +17,13 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 - [x] Refatorando Footer
 - [x] Refatorando Title
 
-## RF - Requisitos Funcionais
+## RNF - Requisitos Não Funcionais
 
-- Internet (para o Material icons)
+- Internet (para o Material icons).
 
 ## Iniciar servidor dev
 
-Execute `ng serve` para ter um server de dev. Abra em seu navegador em `http://localhost:4200/`. O aplicativo ira atualizar automaticamente sempre que alterar arquivos.
+Execute `ng serve` ou `yarn dev`para ter um server de dev. Abra em seu navegador em `http://localhost:4200/`. O aplicativo ira atualizar automaticamente sempre que alterar arquivos.
 
 ## Build
 
