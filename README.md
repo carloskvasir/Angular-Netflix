@@ -12,6 +12,7 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 - [x] Instalar Bootstrap nas dependecias (package.json).
 - [x] Adicionar Material Icons no proprio header (utilizando do cache do navegador).
 - [x] Refatorar primeiro component (app-nav-bar).
+- [x] Refatorando component usando cli (ng generate component shared/FullBanner).
 
 ## RF - Requisitos Funcionais
 
