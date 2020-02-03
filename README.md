@@ -13,6 +13,7 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 - [x] Adicionar Material Icons no proprio header (utilizando do cache do navegador).
 - [x] Refatorar primeiro component (app-nav-bar).
 - [x] Refatorando component usando cli (ng generate component shared/FullBanner).
+- [x] Refatorando ListTitles
 
 ## RF - Requisitos Funcionais
 
