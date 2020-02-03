@@ -12,6 +12,10 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 - [x] Instalar Bootstrap nas dependecias (package.json).
 - [x] Adicionar Material Icons no proprio header (utilizando do cache do navegador).
 
+## RF - Requisitos Funcionais
+
+- Internet (para o Material icons)
+
 ## Iniciar servidor dev
 
 Execute `ng serve` para ter um server de dev. Abra em seu navegador em `http://localhost:4200/`. O aplicativo ira atualizar automaticamente sempre que alterar arquivos.
