@@ -3,9 +3,15 @@
 Projeto feito seguindo os vídeos do canal hcode para aprender Angular 8.
 Uma copia simples da interface web da Netflix apenas para aprendizado.
 
+## ✔️ RoadMap
+
+- [x] Instalar Angular globalmente
+- [x] Copiar Layout do Netflix (hcode github)
+- [x] Instalar Bootstrap in dependecies (package.json)
+
 ## Iniciar servidor dev
 
-Execute `ng serve` para ter um server de dev. Abra em seu navegador `http://localhost:4200/`. O aplicativo ira atualizar automaticamente sempre que alterar arquivos.
+Execute `ng serve` para ter um server de dev. Abra em seu navegador em `http://localhost:4200/`. O aplicativo ira atualizar automaticamente sempre que alterar arquivos.
 
 ## Build
 

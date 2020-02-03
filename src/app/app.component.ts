@@ -5,8 +5,4 @@ import { Component } from "@angular/core";
   templateUrl: "./app.component.html",
   styleUrls: ["./app.component.scss"]
 })
-export class AppComponent {
-  title = "hcode";
-
-  cars = ["gol", "palio", "fusca", "golfe", "ferrari"];
-}
+export class AppComponent {}
