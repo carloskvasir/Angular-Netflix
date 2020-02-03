@@ -8,6 +8,7 @@ import { Component, OnInit, Input } from '@angular/core';
 export class ListTitlesComponent implements OnInit {
 
   @Input() title: string;
+  @Input() list = [];
 
   constructor() { }
 

@@ -3,10 +3,14 @@
 <div class="content-fluid">
   <app-full-banner></app-full-banner>
 
-  <app-list-titles title="Adicionando recentemente"></app-list-titles>
-  <app-list-titles title="Em alta"></app-list-titles>
+  <app-list-titles
+    title="Adicionando recentemente"
+    [list]="listTitles"
+  ></app-list-titles>
+  <app-list-titles title="Em alta" [list]="listTitles"></app-list-titles>
   <app-list-titles
     title="Continuar assitindo como DJALMA SINDEAUX"
+    [list]="listTitles"
   ></app-list-titles>
 </div>
 

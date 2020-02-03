@@ -17,6 +17,7 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 - [x] Refatorando Footer
 - [x] Refatorando Title
 - [x] Fix Titles com propriedades
+- [x] Implementando propriedades para os Titles em ListTitles (ngClass).
 
 ## RNF - Requisitos Não Funcionais
 
