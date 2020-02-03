@@ -15,6 +15,7 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 - [x] Refatorando component usando cli (ng generate component shared/FullBanner).
 - [x] Refatorando ListTitles
 - [x] Refatorando Footer
+- [x] Refatorando Title
 
 ## RF - Requisitos Funcionais
 
