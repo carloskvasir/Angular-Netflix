@@ -10,9 +10,9 @@ export class AppComponent {
 
   listTitles = [
     {
-      trailerUrl: '/assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
-      coverUrl: '/assets/images/guardios-da-galaxia.jpg',
-      coverAlt: 'Alt titulo',
+      trailerUrl: './assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
+      coverUrl: 'assets/images/guardios-da-galaxia.jpg',
+      coverAlt: 'Alt titulo 1',
       name: 'Guardiões da Galaxia 1',
       relevance: 98,
       age: 0,
@@ -20,9 +20,9 @@ export class AppComponent {
       categories: ['Épico', 'Filme de fantasia', 'viagem no espaço'],
     },
     {
-      trailerUrl: '/assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
-      coverUrl: '/assets/images/guardios-da-galaxia.jpg',
-      coverAlt: 'Alt titulo',
+      trailerUrl: 'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
+      coverUrl: 'assets/images/guardios-da-galaxia.jpg',
+      coverAlt: 'Alt titulo 2',
       name: 'Guardiões da Galaxia 2',
       relevance: 80,
       age: 12,
@@ -30,9 +30,9 @@ export class AppComponent {
       categories: ['Épico', 'Filme de fantasia', 'viagem no espaço'],
     },
     {
-      trailerUrl: '/assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
-      coverUrl: '/assets/images/guardios-da-galaxia.jpg',
-      coverAlt: 'Alt titulo',
+      trailerUrl: 'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
+      coverUrl: 'assets/images/guardios-da-galaxia.jpg',
+      coverAlt: 'Alt titulo 3',
       name: 'Guardiões da Galaxia 3',
       relevance: 80,
       age: 14,
@@ -40,9 +40,9 @@ export class AppComponent {
       categories: ['Épico', 'Filme de fantasia', 'viagem no espaço'],
     },
     {
-      trailerUrl: '/assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
-      coverUrl: '/assets/images/guardios-da-galaxia.jpg',
-      coverAlt: 'Alt titulo',
+      trailerUrl: 'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
+      coverUrl: 'assets/images/guardios-da-galaxia.jpg',
+      coverAlt: 'Alt titulo 4',
       name: 'Guardiões da Galaxia 4',
       relevance: 55,
       age: 18,
