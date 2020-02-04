@@ -1,5 +1,5 @@
 <div class="title-item" (mouseenter)="playVideo()" (mouseleave)="stopVideo()">
-  <video #trailer [src]="title.trailer" controls muted="muted"></video>
+  <video #trailer [src]="title.trailerUrl" controls muted="muted"></video>
   <img [src]="title.coverUrl" [alt]="title.coverAlt" />
   <div class="items">
     <div class="left-side">
