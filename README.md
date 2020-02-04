@@ -7,17 +7,18 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 
 ## ✔️ RoadMap
 
-- [x] Instalar Angular globalmente.
-- [x] Copiar Layout do Netflix (hcode github).
-- [x] Instalar Bootstrap nas dependecias (package.json).
-- [x] Adicionar Material Icons no proprio header (utilizando do cache do navegador).
-- [x] Refatorar primeiro component (app-nav-bar).
-- [x] Refatorando component usando cli (ng generate component shared/FullBanner).
-- [x] Refatorando ListTitles
-- [x] Refatorando Footer
-- [x] Refatorando Title
+- [x] Instalei Angular globalmente.
+- [x] Copiei Layout do Netflix (hcode github).
+- [x] Instalei Bootstrap nas dependecias (package.json).
+- [x] Adicionei Material Icons no proprio header (utilizando do cache do navegador).
+- [x] Refatorei primeiro component (app-nav-bar).
+- [x] Refatorei component usando cli (ng generate component shared/FullBanner).
+- [x] Refatorei ListTitles
+- [x] Refatorei Footer
+- [x] Refatorei Title
 - [x] Fix Titles com propriedades
-- [x] Implementando propriedades para os Titles em ListTitles (ngClass).
+- [x] Implementei propriedades para os Titles em ListTitles (ngClass).
+- [x] Implementei backdrop(escurece a tela atrás do side menu).
 
 ## RNF - Requisitos Não Funcionais
 

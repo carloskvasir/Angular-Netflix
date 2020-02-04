@@ -6,6 +6,7 @@ import { Component } from "@angular/core";
   styleUrls: ["./app.component.scss"]
 })
 export class AppComponent {
+  menuOpened: boolean = false;
 
   listTitles = [
     {
@@ -49,4 +50,12 @@ export class AppComponent {
       categories: ['Épico', 'Filme de fantasia', 'viagem no espaço'],
     }
   ];
+
+  setMenuStage(state: boolean) {
+    this.menuOpened = state;
+  }
+
+  closeMenu() {
+    this.menuOpened = false;
+  }
 }
