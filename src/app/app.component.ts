@@ -29,7 +29,8 @@ export class AppComponent {
       parts: 2,
       categories: ['Épico', 'viagem no espaço'],
     },
-    {
+    /*
+   {
       trailerUrl: 'assets/videos/homem_de_ferro_3_trailer_oficial_1080p.mp4',
       coverUrl: 'assets/images/homem-de-ferro.jpg',
       coverAlt: 'Homem de Ferro 3 banner',
@@ -49,6 +50,7 @@ export class AppComponent {
       parts: 2,
       categories: ['Épico', 'Filme de fantasia'],
     },
+    */
     {
       trailerUrl: 'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
       coverUrl: 'assets/images/guardios-da-galaxia.jpg',

@@ -20,6 +20,7 @@ Uma copia simples da interface web da Netflix apenas para aprendizado.
 - [x] Implementei propriedades para os Titles em ListTitles (ngClass).
 - [x] Implementei backdrop(escurece a tela atrás do side menu).
 - [x] Implementei o mutedIcon e emitindo para o elemento Pai
+- [x] Usar SCSS em todos componentes
 
 ## RNF - Requisitos Não Funcionais
 
